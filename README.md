@@ -1,0 +1,2 @@
+# Clinix
+Clinix WordPress Theme
